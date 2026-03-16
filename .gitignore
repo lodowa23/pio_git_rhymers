@@ -1,0 +1,27 @@
+# Kompilaty Javy (pliki binarne)
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+
+# Foldery narzędzi budowania
+target/
+build/
+.gradle/
+bin/
+
+# Ustawienia środowisk programistycznych (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
+.nbworkspace/
+nbproject/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
