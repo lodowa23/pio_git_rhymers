@@ -14,6 +14,5 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
         } else {
             super.countIn(in);
         }
-
     }
 }
