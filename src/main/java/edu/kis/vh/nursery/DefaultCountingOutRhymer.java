@@ -33,7 +33,7 @@ public class DefaultCountingOutRhymer {
     protected int peekaboo() {
         if (callCheck())
             return RETURN;
-        return numbers[total--];
+        return numbers[total];
     }
 
     public int countOut() {
